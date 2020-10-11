@@ -1,0 +1,6 @@
+[Core]
+Name = SlackExtended
+Module = slack_extended
+
+[Documentation]
+Description = This is the extended slack backend for Errbot on sadevs.
