@@ -1,3 +1,5 @@
+# Archived - check out the new errbot slack v3 backend
+
 # SlackExtendedBackend
 
 The great experiment!
